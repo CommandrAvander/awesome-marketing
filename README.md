@@ -17,7 +17,6 @@
 - [Moz](https://moz.com/)
 - [Alexa Traffic Rank Chrome Extension](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en)
 - [Ghostery Chrome Extension](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij?hl=en)
-- [ ]
 
 ##### Keywords
 - [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
@@ -46,6 +45,8 @@
 
 #### Lead Generation
 - [Optinmonster](http://optinmonster.com)
+- [Growbots](https://www.growbots.com/)
+- [Socedo](https://www.socedo.com/)
 
 #### Sales
 - [Close.io](http://close.io/)
@@ -139,6 +140,7 @@
 - [Hotjar](https://www.hotjar.com/)
 - [FullStory](https://www.fullstory.com/)
 - [Mixpanel](https://mixpanel.com/)
+- [RJMetrics](https://rjmetrics.com/)
 
 #### Customers
 - [Intercom](https://www.google.com/analytics/)
